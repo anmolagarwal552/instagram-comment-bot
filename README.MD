@@ -1,4 +1,4 @@
-			INSTAGRAM COMMENT BOT
+						INSTAGRAM COMMENT BOT
 This bot is designed in selenium and required selenium module before runnig it
 Copy the path or download all the files in same folder any where in your desktop.
  
