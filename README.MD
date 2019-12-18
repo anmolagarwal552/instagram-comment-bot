@@ -1,4 +1,4 @@
-		INSTAGRAM COMMENT BOT
+			INSTAGRAM COMMENT BOT
 This bot is designed in selenium and required selenium module before runnig it
 Copy the path or download all the files in same folder any where in your desktop.
  
@@ -10,9 +10,9 @@ Copy the path or download all the files in same folder any where in your desktop
 	LINK -> LINK TO THE POST
 	DT -> DELAY TIME / PAUSE TIME BETWEEN EACH COMMENT 
 	COM.TXT? -> COMMENT LINES  ??  ??  ?? 
-	#NOTE 
-DO NOT INCLUDE EMOJIS IN COMMENTS LINE PYTHON DO NOT
-SUPPORT DIRECT EMOJIS
+  #NOTE 
+  DO NOT INCLUDE EMOJIS IN COMMENTS LINE PYTHON DO NOT
+  SUPPORT DIRECT EMOJIS
 
 	Credit ~ Anmol Agarwal
 	anmolagarwal553@gmail.com
